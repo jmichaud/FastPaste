@@ -2,7 +2,7 @@ FastPaste
 ---------
 
 A tool to facilitate repetitive text pasting. My intended use is
-to make entering user login/accoun nubmers/passowrds quickly for
+to make entering user login/account numbers/passwords quickly for
 manual app testing.
 
 Currently, values are hardcoded, so clone the repo,and then
